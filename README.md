@@ -1,2 +1,2 @@
 # Processor
-Verilog Implementation of a basic microprocessor.
+Verilog Implementation of a microprocessor.
